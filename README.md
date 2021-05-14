@@ -1,4 +1,4 @@
-# save-note-application
+# Save-note-application
 Note application written in PHP programming language.      
 This is a simple note project that can help the user store their notes.
 
