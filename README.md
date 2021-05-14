@@ -7,7 +7,7 @@ This is a simple note project that can help the user store their notes.
 * Allows user to create a note
 * Allows user to update and even delete his or her own notes
 
-![notepage](img/notepage.png)
+![notepage](img/notepage.png){width:100px}
 
 ## Technologies
 * PHP version 8
