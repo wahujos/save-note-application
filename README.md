@@ -7,7 +7,7 @@ This is a simple note project that can help the user store their notes.
 * Allows user to create a note
 * Allows user to update and even delete his or her own notes
 
-![notepage](img/notepage.png){width:100px}
+<img src="img/notepage.png" alt="notepage" style="width: 100px;">
 
 ## Technologies
 * PHP version 8
@@ -16,4 +16,4 @@ This is a simple note project that can help the user store their notes.
 You can clone this repository to your computer using the git clone command
 
 ## License
-This project is available under the [MIT Licence](LICENCE.md)
+This project is available under the [MIT Licence](LICENCE)
