@@ -5,13 +5,13 @@ This is a simple note project that can help the user store their notes.
 ## Functionalities
 * Allows the user to create an account
 * Allows user to create a note
-* Allows user to update and even delete his or her own notes
+* Allows user to update and even delete his or her own notes    
 
+&nbsp;  
 
+<img src="img/notepage.png" alt="notepage" width = "500px">
 
-<img src="img/notepage.png" alt="notepage" width = "100px">
-
-
+&nbsp;  
 
 ## Technologies
 * PHP version 8
