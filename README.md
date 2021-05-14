@@ -16,4 +16,4 @@ This is a simple note project that can help the user store their notes.
 You can clone this repository to your computer using the git clone command
 
 ## License
-This project is available under the [MIT Licence](LICENCE)
+This project is available under the [MIT License](LICENSE)
