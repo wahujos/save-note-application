@@ -17,10 +17,8 @@ This is a simple note project that can help the user store their notes.
 * PHP version 8
 
 ## Installation
-You can clone this repository to your computer using the git clone command  
-using git bash navigate to the directory where you want to clone the project.  
-Type in the command below and then press enter   
-'git clone https://github.com/wahujos/save-note-application.git'
+You can clone this repository to your computer using the `git clone` command  
+
 
 ## License
 This project is available under the [MIT License](LICENSE)
